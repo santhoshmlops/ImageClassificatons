@@ -1,0 +1,1 @@
+from src.cnnClassifier.logger.logger import logging
